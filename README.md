@@ -1,0 +1,2 @@
+# Reduccion_dimensionalidad
+PAC
